@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1iLwWgIi3V-NJemCN0kmO6l7KxLZCkvzmgRqyGt2AppM/edit?tab=t.0
+
 # BookPedia
 
 BookPedia é uma aplicação web desenvolvida em Angular que permite a busca de livros utilizando a API pública do Google Books. O sistema oferece uma interface simples e responsiva para que usuários possam pesquisar livros por título, autor ou assunto, visualizar resultados paginados e acessar informações detalhadas das obras.
